@@ -1,7 +1,7 @@
 language:python
 phython:
-     -   "3.4"
+        -   "3.4"
 script:
-     -  cd src; python teste.py 
+        -  cd src; python teste.py 
 
 
